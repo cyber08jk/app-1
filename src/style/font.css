@@ -1,0 +1,28 @@
+h1 {
+    font-size: 36px;
+    color: #f6eeee;
+  }
+.f1 {
+    font-size: 36px;
+    color: #dc0000;
+  }
+  .fc {
+    font-size: 36px;
+    color: #f8fbff;
+    background-color: rgb(10, 10, 10);
+    width: 50%;
+    border-radius: 10%;
+    border: #f6eeee;
+    border-width: 10%;
+  }
+  h2 {
+    font-size: 24px;
+    color: #666;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #999;
+  }
+  
+  
